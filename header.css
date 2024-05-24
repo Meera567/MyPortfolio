@@ -1,0 +1,13 @@
+.header_container{
+    height: 100vh;
+   background-color: black;
+}
+.nav{
+    background-color: black;
+padding: 20px;
+display: flex;
+gap: 20px;
+color: aliceblue;
+justify-content: space-between;
+
+  }  
